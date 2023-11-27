@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426057671732",
+    "project_id": "fir-example-30b66",
+    "storage_bucket": "fir-example-30b66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426057671732:android:8ecaedb20eb1af47611661",
+        "android_client_info": {
+          "package_name": "ar.edu.davinci.firebaseexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGVqjp4-kZ1B-HjpReMZn2KmEXIBt9ewA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
